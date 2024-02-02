@@ -1,0 +1,42 @@
+/* Variables */
+/* Comentarios */
+
+/* Estilos del contenedor principal (#root) */
+#root {
+    width: 50rem;
+    height: 30rem;
+    border-radius: 5px;
+    border: 2px solid black;
+    margin: auto;
+    margin-top: 10rem;
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    grid-template-rows: repeat(4, 1fr);
+    gap: 10px;
+}
+
+/* Estilos de los elementos hijos directos del contenedor principal (#root > div) */
+#root > div {
+    background-color: red;
+    border-radius: 5px;
+}
+
+/* Estilos de las clases y selectores generales */
+.carta {
+    height: 100%;
+    border-radius: 1px;
+    background-color: orange;
+    font-size: 4rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+}
+
+/* Estilos de pseudoclases y pseudoelementos */
+.carta:hover {
+    cursor: pointer;
+    background-color: rgb(168, 111, 5);
+    box-shadow: 5px 5px 5px gray;
+}
+
