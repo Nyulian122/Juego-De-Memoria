@@ -1,28 +1,13 @@
-# Nombre del Proyecto
+# Juego de memoria
 
-Breve descripción o resumen del proyecto. Puedes incluir su propósito, características clave, y cualquier otra información relevante.
-
-## Tabla de Contenidos
-
-- [Instalación](#instalación)
-- [Uso](#uso)
-- [Contribución](#contribución)
-- [Licencia](#licencia)
-
-## Instalación
-
-Proporciona instrucciones claras sobre cómo instalar y configurar tu proyecto. Esto podría incluir cómo descargar o clonar el repositorio, instalar dependencias, configurar el entorno, etc.
+Este es mi repositorio, en este estoy trabajando en mi juego de cartar,
 
 ## Uso
-
-Explica cómo usar tu proyecto. Proporciona ejemplos de código, capturas de pantalla o demostraciones si es necesario para ayudar a los usuarios a comprender cómo funciona.
+El juego consiste en un juego de memoria al azar
 
 ## Contribución
 
-Indica cómo otros desarrolladores pueden contribuir a tu proyecto. Puedes incluir instrucciones sobre cómo reportar problemas, sugerir mejoras, o enviar solicitudes de extracción (pull requests).
+Puedes contribuir a mejorar el programa clonando mi repo y mejorandolo
 
-## Licencia
-
-Describe la licencia bajo la cual se distribuye tu proyecto. Asegúrate de elegir una licencia que se ajuste a tus necesidades y expectativas en cuanto al uso y distribución del código.
 
 
