@@ -3,9 +3,9 @@
 EL proposito de este proyecto es realizar una tienda virtual con API"s Y disenos de figma
 
 ## Colaboradores
-Justin Berican
-jcbercian@scl.edu.gt
-JUSTINBRR88
+<p>Justin Berican</p>
+<p>jcbercian@scl.edu.gt</p>
+<p>JUSTINBRR88<p></p>
 
 ## Tecnologias usadas en este proyecto
 Puedes contribuir a mejorar el programa clonando mi repo y mejorándolo.
