@@ -8,6 +8,8 @@ EL proposito de este proyecto es realizar una tienda virtual con API"s Y disenos
 <p>JUSTINBRR88<p></p>
 
 ## Tecnologias usadas en este proyecto
-Puedes contribuir a mejorar el programa clonando mi repo y mejorándolo.
 
-![:)](https://pa1.aminoapps.com/6415/5dafe605d6ddba5ba828f2378c7b98fed8f5074a_hq.gif)
+- [Enlace a la documentación](link_a_documentacion)
+- [Enlace al demo](link_a_demo)
+- [Enlace al repositorio](link_al_repositorio)
+- [Otro enlace relevante](otro_enlace)
